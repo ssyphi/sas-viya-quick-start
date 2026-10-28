@@ -8,9 +8,8 @@
 
 The following videos are included in the Quick Start series:
 - [SAS Viya and the Analytics Life Cycle](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6325462141112/sas-viya-and-the-analytics-life-cycle?autoStart=true)
-- [Discover Information Assets with SAS Information Catalog](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6326134225112/discover-information-assets-with-sas-information-catalog?autoStart=true)
-- [Manage Data with SAS Data Explorer](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6332731378112/manage-data-with-sas-data-explorer?autoStart=true)
-- [Explore and Visualize Data with SAS Visual Analytics](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6323595794112/explore-and-visualize-data-with-sas-visual-analytics?autoStart=true)
+- [Discover and Govern Data with SAS Data Governance](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6397992826112/discover-and-govern-data-with-sas-data-governance?autoStart=true)
+- [Access and Manage Data with SAS Data Hub](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6397993705112/access-and-manage-data-with-sas-data-hub?autoStart=true)- [Explore and Visualize Data with SAS Visual Analytics](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6323595794112/explore-and-visualize-data-with-sas-visual-analytics?autoStart=true)
 - [Develop SAS Code with SAS Studio](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6325460656112/develop-sas-code-with-sas-studio?autoStart=true)
 - [Build Flows with SAS Studio](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6325462242112/build-flows-with-sas-studio?autoStart=true)
 - [Create Custom Steps with SAS Studio](https://video.sas.com/detail/videos/sas-viya-quick-start/video/6347011003112/create-custom-steps-with-sas-studio?autoStart=true)
